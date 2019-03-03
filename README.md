@@ -18,3 +18,11 @@ finding slope:
  ```
  ![](http://1algo1week.warriorkitty.com/assets/pearson-correlation-coefficient/pearson-formula.png)
  
+ ```
+ Standard Deviation can be found with:
+ ```
+ ![](https://i1.wp.com/www.clydebankmedia.com/wp-content/uploads/2017/05/fg_18.png?w=1080&ssl=1)
+ ```
+ To find the Y-intercept we use the formula:
+ ```
+ ![](https://userscontent2.emaze.com/images/9e2c3bc1-c3da-4a4f-871e-70c8adf25d82/9fcce74dbc3d21a887348bdaa27ee215.jpg)
