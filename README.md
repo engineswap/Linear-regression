@@ -34,6 +34,6 @@ The purpose of this project for me was to dabble into AI and some more math heav
 2.) Open index.html
 ```
 You will see a page like this:
-![](https://gyazo.com/8b1059075cdfe24d01592d998471a054)
+![](https://i.gyazo.com/8b1059075cdfe24d01592d998471a054.png)
 It shows you the points it used, and the line formula.
 You can change the points it uses within the ``regression.js`` file.
