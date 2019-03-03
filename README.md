@@ -16,5 +16,5 @@ finding slope:
  
  r is found as such: 
  ```
- !()[http://1algo1week.warriorkitty.com/assets/pearson-correlation-coefficient/pearson-formula.png]
+ ![](http://1algo1week.warriorkitty.com/assets/pearson-correlation-coefficient/pearson-formula.png)
  
