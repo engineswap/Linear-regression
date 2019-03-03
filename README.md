@@ -1,7 +1,7 @@
 # Linear regression
 Basic demonstration of linear regression in action
 ```
-Math
+*Math*
 
 To find a best fit line we need to use the form y=mx+b
 -since we know our coordinates we need to find the slope and y intercept
@@ -26,3 +26,7 @@ finding slope:
  To find the Y-intercept we use the formula:
  ```
  ![](https://userscontent2.emaze.com/images/9e2c3bc1-c3da-4a4f-871e-70c8adf25d82/9fcce74dbc3d21a887348bdaa27ee215.jpg)
+```
+*Purpose*
+The purpose of this project for me was to dabble into AI and some more math heavy programming, I understand this isnt any fancy AI but none the less, it was interesting to work on.
+```
