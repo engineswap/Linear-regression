@@ -1,5 +1,5 @@
 # Linear regression
-Basic demonstration of linear regression in action
+Basic linear regression model
 # Math
 ```
 To find a best fit line we need to use the form y=mx+b
