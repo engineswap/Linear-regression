@@ -28,4 +28,12 @@ finding slope:
 
 # Purpose
 The purpose of this project for me was to dabble into AI and some more math heavy programming, I understand this isnt any fancy AI but none the less, it was interesting to work on.
-
+# How to run
+```
+1.) Download the repository
+2.) Open index.html
+```
+You will see a page like this:
+![](https://gyazo.com/8b1059075cdfe24d01592d998471a054)
+It shows you the points it used, and the line formula.
+You can change the points it uses within the ``regression.js`` file.
